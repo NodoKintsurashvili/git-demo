@@ -1,0 +1,48 @@
+[33mcommit afca21e0517deb475a59ca6843caab492dee1b44[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nodo Kintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Thu Feb 26 10:32:31 2026 +0400
+
+    add new song line
+
+[33mcommit b0a037b1a7b62221de09785e7701614d020e5803[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nodo Kintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 17:14:44 2026 +0400
+
+    new txt added
+
+[33mcommit f4b69f0caf5bf9249524a7ddbceb4e81f231291a[m
+Merge: 5e537b7 0b27549
+Author: Nodo Kintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 17:12:50 2026 +0400
+
+    song.txt has updatet
+
+[33mcommit 5e537b7549316481d94f5931e847eeaa67708508[m
+Author: Nodo Kintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 17:04:21 2026 +0400
+
+    added song.txt
+
+[33mcommit 0b2754912e6ce241414c9f5dd071217d664ca93c[m
+Author: NodoKintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 16:57:29 2026 +0400
+
+    Remove content from song.txt
+
+[33mcommit 3950144145914073e6ffc847b0ad0931d6c99237[m
+Author: NodoKintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 16:56:10 2026 +0400
+
+    Add content to song.txt
+
+[33mcommit e0a26af99a22a7e51f972474287824802f5aa3f7[m
+Author: Nodo Kintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 16:43:48 2026 +0400
+
+    2 line of text has been added
+
+[33mcommit d0381934781e8eb0569f5b6c4d956543caf4e4e5[m
+Author: NodoKintsurashvili <nodokintsurashvili@gmail.com>
+Date:   Wed Feb 25 16:15:32 2026 +0400
+
+    Initial commit
